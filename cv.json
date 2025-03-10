@@ -1,0 +1,332 @@
+{
+  "personalInfo": {
+    "name": "Mahmudul Hasan",
+    "title": "Full Stack, Mobile & IoT Developer",
+    "contact": {
+      "email": "honey.app.developer@gmail.com",
+      "phone": "01537749454",
+      "location": "Dhaka, Bangladesh",
+      "github": "github.com/mh-dpi",
+      "linkedin": "linkedin.com/in//mahmudul-hasan-b20a6b311"
+    }
+  },
+  "professionalSummary": "Award-winning developer with expertise spanning mobile, web, IoT technologies, and Linux systems. Achieved top rankings in national skill competitions, including 1st place at Dhaka Polytechnic Institute (2025) and 2nd place at Chattogram Regional Level (2023). Proficient in Flutter for cross-platform development, Android native development with Kotlin and Jetpack Compose, backend services with Spring Boot, hardware programming with Arduino and ESP32, and Python development with Flet. Knowledge of networking, surveillance security, cybersecurity, and data structures & algorithms. Currently enhancing Flutter skills through Ostad platform (Batch 9). Experienced Arch Linux user (5+ years) with knowledge of Kali Linux and other distributions. Diploma holder in Computer Science and Technology with a strong foundation in software development, hardware integration, and system administration.",
+  
+  "achievements": [
+    {
+      "title": "National Skill Competitions",
+      "items": [
+        {
+          "position": "1st Place",
+          "event": "Institute Level Skill Competition, Dhaka Polytechnic Institute",
+          "year": 2025
+        },
+        {
+          "position": "2nd Place",
+          "event": "Regional Level Skill Competition, Chattogram Region",
+          "year": 2023
+        },
+        {
+          "position": "3rd Place",
+          "event": "Institute Level Skill Competition, Bangladesh Sweden Polytechnic Institute",
+          "year": 2023
+        }
+      ]
+    }
+  ],
+  
+  "experience": [
+    {
+      "title": "Security & Networking Enthusiast",
+      "company": "Personal Projects & Learning",
+      "responsibilities": [
+        "Gained practical knowledge in network configuration, routing, and troubleshooting",
+        "Explored surveillance security systems and camera setups for monitoring applications",
+        "Studied cybersecurity principles and common attack vectors using Kali Linux tools",
+        "Implemented basic security measures for protecting systems and networks",
+        "Applied data structures and algorithms knowledge to optimize software solutions",
+        "Explored hardware components and their integration in various computing systems"
+      ]
+    },
+    {
+      "title": "Python Developer",
+      "company": "Personal & Open Source Projects",
+      "responsibilities": [
+        "Developed a scientific calculator application using Flet Python framework",
+        "Implemented complex mathematical operations and scientific functions",
+        "Created responsive and intuitive user interface with Flet's Material Design components",
+        "Applied proper state management for handling calculator operations"
+      ],
+      "repositories": [
+        {
+          "name": "Scientific Calculator with Flet Python",
+          "url": "https://github.com/mh-dpi/CalculatorUsingFletPython.git"
+        }
+      ]
+    },
+    {
+      "title": "Flutter Developer",
+      "company": "Personal & Open Source Projects",
+      "responsibilities": [
+        "Developed a CRUD application with RESTful API integration for product management",
+        "Created a contact management application with add, view, and delete functionality",
+        "Implemented state management solutions for efficient data handling",
+        "Designed responsive user interfaces that work across multiple device sizes",
+        "Applied clean architecture principles for maintainable and testable code",
+        "Currently enhancing Flutter development skills through Ostad platform (Batch 9)"
+      ],
+      "repositories": [
+        {
+          "name": "CRUD App with RESTful API",
+          "url": "https://github.com/mh-dpi/CRUD_App_Ostad.git"
+        },
+        {
+          "name": "Contact Management App",
+          "url": "https://github.com/mh-dpi/module_10_assignment.git"
+        }
+      ]
+    },
+    {
+      "title": "Linux System Administrator",
+      "company": "Personal & Professional Projects",
+      "duration": "5+ Years",
+      "responsibilities": [
+        "Maintained and administered Arch Linux systems for 5+ years, gaining deep knowledge of system architecture and package management",
+        "Utilized Kali Linux for security testing and network analysis in various projects",
+        "Configured and optimized Linux environments for development workflows across multiple distributions",
+        "Implemented custom shell scripts for automation of routine tasks and system maintenance",
+        "Set up and managed development environments with containerization using Docker on Linux",
+        "Configured secure networking and implemented proper security practices on Linux systems",
+        "Troubleshot and resolved complex system issues across different Linux distributions"
+      ]
+    },
+    {
+      "title": "IoT Developer - Health Monitoring System",
+      "company": "Hardware Project",
+      "responsibilities": [
+        "Designed and developed IoT-based health monitoring systems using Arduino and ESP32 microcontrollers",
+        "Implemented BMP (Blood Pressure Monitor) and ECG (Electrocardiogram) sensor integration for real-time health data collection",
+        "Created human temperature monitoring system with accurate digital sensors",
+        "Developed servo motor control systems for precise mechanical operations",
+        "Integrated fire sensors and motion sensors for environmental monitoring and safety applications",
+        "Programmed microcontrollers using C/C++ for efficient and reliable operation",
+        "Designed circuit boards and implemented proper power management for IoT devices",
+        "Created data visualization interfaces to display sensor readings in real-time"
+      ]
+    },
+    {
+      "title": "Android Developer - Smart Academic Infrastructure (SmartAI)",
+      "company": "Open Source Project",
+      "responsibilities": [
+        "Developed a comprehensive academic management Android application using Kotlin and Jetpack Compose",
+        "Implemented automated attendance tracking system using location services and Firebase integration",
+        "Created assignment submission and management features for students and faculty",
+        "Built interactive classroom quiz functionality with real-time grading and feedback",
+        "Developed virtual classroom capabilities for remote learning",
+        "Implemented a robust messaging system using Firebase Realtime Database",
+        "Applied MVVM architecture pattern for maintainable and testable code",
+        "Utilized Firebase for authentication, data storage, and real-time communication"
+      ],
+      "repositories": [
+        {
+          "name": "Smart Academic Infrastructure (SmartAI)",
+          "url": "https://github.com/mh-dpi/SmartAI.git"
+        }
+      ]
+    },
+    {
+      "title": "Full Stack Developer - Community Anti-Corruption Hub (CACHCO)",
+      "company": "Open Source Project",
+      "responsibilities": [
+        "Developed a comprehensive anti-corruption platform using Spring Boot and Thymeleaf",
+        "Implemented server-side rendering with Thymeleaf templates for a responsive web interface",
+        "Designed and developed RESTful APIs using Spring Boot for data management",
+        "Created secure user authentication and authorization systems",
+        "Utilized Kotlin for backend development with Gradle build system",
+        "Implemented database integration using JPA/Hibernate",
+        "Managed version control and collaborative development using Git"
+      ],
+      "repositories": [
+        {
+          "name": "Community Anti-Corruption Hub (CACHCO)",
+          "url": "https://github.com/mh-dpi/CACHCO.git"
+        }
+      ]
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Diploma in Computer Science and Technology",
+      "institution": "Dhaka Polytechnic Institute",
+      "status": "Current",
+      "coursework": [
+        "Mobile Application Development",
+        "Data Structures & Algorithms",
+        "Database Management Systems",
+        "Object-Oriented Programming",
+        "Web Development",
+        "Embedded Systems",
+        "Operating Systems",
+        "Computer Networking",
+        "Cybersecurity Fundamentals"
+      ]
+    },
+    {
+      "degree": "Flutter Development Course",
+      "institution": "Ostad Platform",
+      "batch": "Batch 9",
+      "status": "Current",
+      "description": "Comprehensive training in Flutter development, covering state management, API integration, responsive UI design, and cross-platform development best practices."
+    }
+  ],
+  
+  "skills": {
+    "mobileDevelopment": [
+      "Flutter & Dart",
+      "Kotlin & Android SDK",
+      "Jetpack Compose",
+      "State Management (BLoC,GetX)",
+      "MVVM Architecture",
+      "RESTful API Integration",
+      "Mobile UI/UX Design Principles",
+      "App Performance Optimization"
+    ],
+    "backendAndDesktopDevelopment": [
+      "Spring Boot & Java/Kotlin",
+      "Python & Flet Framework",
+      "Thymeleaf Template Engine",
+      "RESTful API Design",
+      "JPA/Hibernate",
+      "SQL & NoSQL Databases",
+      "Data Structures & Algorithms"
+    ],
+    "iotAndHardware": [
+      "Arduino & ESP32 Programming",
+      "Sensor Integration (BMP, ECG, Temperature)",
+      "Servo Motor Control",
+      "Fire & Motion Sensors",
+      "C/C++ for Embedded Systems",
+      "Circuit Design",
+      "IoT Data Communication",
+      "Hardware Components & Integration"
+    ],
+    "networkingAndSecurity": [
+      "Network Configuration",
+      "Routing & Switching Basics",
+      "Surveillance Systems",
+      "Cybersecurity Fundamentals",
+      "Kali Linux Security Tools",
+      "Penetration Testing Basics",
+      "Security Best Practices"
+    ],
+    "linuxAndSystemAdministration": [
+      "Arch Linux (5+ years)",
+      "Kali Linux & Security Tools",
+      "Shell Scripting (Bash)",
+      "Package Management",
+      "System Configuration & Optimization",
+      "Network Configuration",
+      "Linux Security Practices"
+    ],
+    "cloudAndDevOps": [
+      "Firebase (Authentication, Firestore, Realtime DB)",
+      "Git & Version Control",
+      "Docker",
+      "Gradle/Maven",
+      "Cloud Services"
+    ],
+    "softSkills": [
+      "Problem Solving",
+      "Team Collaboration",
+      "Project Management",
+      "Communication",
+      "Time Management"
+    ]
+  },
+  
+  "projects": [
+    {
+      "name": "Network & Security Lab Setup",
+      "description": [
+        "Configured a home lab environment for practicing networking and security concepts",
+        "Set up virtual machines for testing different security scenarios and network configurations",
+        "Implemented basic surveillance system with IP cameras and monitoring software",
+        "Practiced penetration testing techniques in controlled environments using Kali Linux",
+        "Applied data structures and algorithms to solve complex programming challenges"
+      ]
+    },
+    {
+      "name": "Scientific Calculator with Flet Python",
+      "description": [
+        "Developed a feature-rich scientific calculator application using Python and the Flet framework",
+        "Implemented standard arithmetic operations and advanced scientific functions",
+        "Created a responsive and intuitive user interface with Material Design components",
+        "Designed clean architecture for handling calculator operations and state management"
+      ],
+      "repository": "https://github.com/mh-dpi/CalculatorUsingFletPython.git"
+    },
+    {
+      "name": "Linux Development Environment Setup",
+      "description": [
+        "Configured and optimized Arch Linux for development across multiple programming languages and frameworks",
+        "Created custom shell scripts for automating development workflows and system maintenance",
+        "Implemented secure networking configurations and hardened system security",
+        "Set up containerized development environments using Docker on Linux",
+        "Configured and maintained multiple Linux distributions for different development needs"
+      ]
+    },
+    {
+      "name": "IoT Health Monitoring System",
+      "description": [
+        "Developed a comprehensive health monitoring system using Arduino and ESP32 microcontrollers",
+        "Integrated multiple sensors including BMP for blood pressure, ECG for heart monitoring, and temperature sensors",
+        "Implemented real-time data collection and processing for accurate health metrics",
+        "Created a responsive interface for displaying health data and alerts",
+        "Designed and built custom circuit boards for sensor integration and power management",
+        "Incorporated motion sensors for patient activity monitoring and emergency detection"
+      ]
+    },
+    {
+      "name": "Smart Academic Infrastructure (SmartAI)",
+      "description": [
+        "Developed a comprehensive academic management platform for educational institutions",
+        "Built with Kotlin, Jetpack Compose, and Firebase for Android native development",
+        "Implemented features including attendance tracking, assignment submission, virtual classes, and classroom quizzes",
+        "Created separate interfaces for students and teachers with role-specific functionalities",
+        "Utilized MVVM architecture and Firebase for real-time data synchronization"
+      ],
+      "repository": "https://github.com/mh-dpi/SmartAI.git"
+    },
+    {
+      "name": "Community Anti-Corruption Hub (CACHCO)",
+      "description": [
+        "Developed a comprehensive platform to combat corruption through community engagement and reporting",
+        "Built with Spring Boot, Kotlin, and Thymeleaf for server-side rendering",
+        "Implemented secure data handling and user privacy features",
+        "Created responsive web interfaces that work across multiple devices"
+      ],
+      "repository": "https://github.com/mh-dpi/CACHCO.git"
+    },
+    {
+      "name": "CRUD Application with RESTful API",
+      "description": [
+        "Developed a Flutter application for product management with complete CRUD functionality",
+        "Implemented RESTful API integration for data persistence and retrieval",
+        "Created responsive UI with intuitive product listing, creation, editing, and deletion",
+        "Applied proper state management for efficient data handling"
+      ],
+      "repository": "https://github.com/mh-dpi/CRUD_App_Ostad.git"
+    },
+    {
+      "name": "Contact Management Application",
+      "description": [
+        "Built a Flutter application for managing contact information",
+        "Implemented features for adding, viewing, and deleting contacts",
+        "Created confirmation dialogs for data deletion to prevent accidental data loss",
+        "Designed clean and intuitive user interface with list tiles for contact display"
+      ],
+      "repository": "https://github.com/mh-dpi/module_10_assignment.git"
+    }
+  ]
+} 
